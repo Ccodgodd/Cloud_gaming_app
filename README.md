@@ -1,8 +1,3 @@
-Here’s a complete `README.md` file for your GitHub repository showcasing the **King of Pirates (KOP) – Cloud Gaming App** project using **queue data structures**:
-
----
-
-```markdown
 # 🎮 King of Pirates (KOP) – Cloud Gaming App
 
 Welcome to **King of Pirates (KOP)** – a Python-based cloud gaming simulation that uses **Queue Data Structures** to manage player access based on priority.
@@ -98,12 +93,4 @@ File used: `Gamepass_Games_v1.csv`
 - [Pandas Docs](https://pandas.pydata.org/docs/)
 - [Kaggle Xbox Game Dataset](https://www.kaggle.com/datasets/deepcontractor/xbox-game-pass-games-library/data)
 
----
 
-Feel free to ⭐ this repo and fork it to add new features!
-
-```
-
----
-
-Let me know if you'd like the actual `README.md` file generated and uploaded or if you want me to help push this to GitHub for you!
